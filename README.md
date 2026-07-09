@@ -82,7 +82,6 @@ monblanproject/
 - **Custom DatePicker** – two inputs ("from" and "to") with custom buttons:
   - ✕ – clear the input
   - 📅 – open the calendar
-- **Sticky header** – remains at the top on scroll
 
 ### Card Display Modes
 
