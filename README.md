@@ -32,35 +32,36 @@ The page represents a social media dashboard with header statistics, date filter
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
+```
 monblanproject/
 ├── public/
-│ └── sprite.svg
+│   └── sprite.svg
 ├── src/
-│ ├── assets/
-│ │ ├── images/
-│ │ │ ├── Rectangle 20.jpg
-│ │ │ ├── Rectangle 20-1.jpg
-│ │ │ ├── Rectangle 20-2.jpg
-│ │ │ ├── Rectangle 20-3.jpg
-│ │ │ ├── Rectangle 20-4.jpg
-│ │ │ ├── Rectangle 20-5.jpg
-│ │ │ ├── Rectangle 20-6.jpg
-│ │ │ └── Rectangle 20-7.jpg
-│ │ ├── group1.svg
-│ │ ├── vector1.svg
-│ │ └── vector2.svg
-│ ├── components/
-│ │ └── DatePickerWithButtons.tsx
-│ ├── data/
-│ │ └── cards.ts
-│ ├── types/
-│ │ └── datePicker.ts
-│ ├── App.css
-│ ├── App.tsx
-│ ├── index.css
-│ └── main.tsx
+│   ├── assets/
+│   │   ├── images/
+│   │   │   ├── Rectangle 20.jpg
+│   │   │   ├── Rectangle 20-1.jpg
+│   │   │   ├── Rectangle 20-2.jpg
+│   │   │   ├── Rectangle 20-3.jpg
+│   │   │   ├── Rectangle 20-4.jpg
+│   │   │   ├── Rectangle 20-5.jpg
+│   │   │   ├── Rectangle 20-6.jpg
+│   │   │   └── Rectangle 20-7.jpg
+│   │   ├── group1.svg
+│   │   ├── vector1.svg
+│   │   └── vector2.svg
+│   ├── components/
+│   │   └── DatePickerWithButtons.tsx
+│   ├── data/
+│   │   └── cards.ts
+│   ├── types/
+│   │   └── datePicker.ts
+│   ├── App.css
+│   ├── App.tsx
+│   ├── index.css
+│   └── main.tsx
 ├── .gitignore
 ├── index.html
 ├── package.json
@@ -68,6 +69,7 @@ monblanproject/
 ├── tsconfig.json
 ├── tsconfig.node.json
 └── vite.config.ts
+```
 
 ---
 
