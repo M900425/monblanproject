@@ -304,6 +304,7 @@
 
 .datepicker-btn {
   background-color: #ebebeb;
+  color: #5f5f5f !important;
   border: none;
   cursor: pointer;
   display: flex;
